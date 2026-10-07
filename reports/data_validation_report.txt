@@ -1,0 +1,19 @@
+DATA VALIDATION REPORT
+======================
+Total Records: 1000
+Total Columns: 8
+Missing Values: 136
+Duplicate Rows: 0
+
+Churn Distribution:
+churn
+Yes    503
+No     497
+Name: count, dtype: int64
+
+WARNINGS:
+Missing values found: 136
+
+No critical data errors found.
+
+VALIDATION STATUS: PASSED
